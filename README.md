@@ -7,7 +7,7 @@ Supported API Version: *V4*
 Just do `python send_file.py -h`
 
 ~~~~{.python}
- Mattermost File send CLI for API V4
+Mattermost File send CLI for API V4
 
 positional arguments:
   SERVER_URL            The Mattermost Server Url
