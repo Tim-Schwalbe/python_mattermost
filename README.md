@@ -1,4 +1,4 @@
-# Python Mattermost Python CLI for API V4
+# Python Mattermost File send CLI for API V4
 
 This is a simple CLI to upload files to mattermost
 
