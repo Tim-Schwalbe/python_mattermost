@@ -27,7 +27,7 @@ optional arguments:
 
 
 To use it you need a personal access token.
-https://docs.mattermost.com/developer/personal-access-tokens.html
+https://docs.mattermost.com/developer/personal-access-tokens.html  
 The Channel ID can be found in the channel settings -> 'View Info'
 
 You can choose with the optional arguments to send a normal message or a message with a specific color as attachment box.
